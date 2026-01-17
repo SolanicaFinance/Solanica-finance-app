@@ -1,0 +1,1 @@
+# Solanica-finance-app
