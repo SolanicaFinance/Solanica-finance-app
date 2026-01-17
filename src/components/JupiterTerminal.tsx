@@ -86,7 +86,7 @@ export const JupiterTerminal = memo(({ mode = 'integrated' }: JupiterTerminalPro
             swapMode: 'ExactInOrOut',
             fixedMint: '',
             referralFee: 50,
-            referralAccount: '2z936tUKKDDj4xLxu7Xppt22DPoY4iT6UPkmfiKqPe1g',
+            referralAccount: '',
           },
           branding: {
             name: 'Solanica',
